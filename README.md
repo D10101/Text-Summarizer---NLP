@@ -46,7 +46,3 @@ The **Text Summarizer** is a Natural Language Processing (NLP) based application
 ## 📊 Results
 
 The generated summary will highlight the most important points from the input text, condensing it into a concise format, without losing key information.
-
-## 👥 Contributors
-
-- **Your Name** – Developer ([GitHub]())
